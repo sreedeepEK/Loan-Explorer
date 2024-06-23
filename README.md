@@ -18,7 +18,7 @@ This project involves analyzing bank loan data using SQL and creating an interac
 ### Usage
 
 1. **SQL Analysis**: Run the SQL script to process loan data.
-2. **Power BI Dashboard**: Open the PDF to view visualizations or download the .pbix file.
+2. **Power BI Dashboard**: Open the PDF to view visualizations.
 
 ### License 
 
