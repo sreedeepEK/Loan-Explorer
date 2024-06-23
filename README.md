@@ -1,7 +1,5 @@
 ## Bank Loan Dashboard
 
-This project involves analyzing bank loan data using SQL and creating an interactive dashboard in Power BI.
-
 ### Files
 
 - `Dashboard.pbix` - Power BI dashboard
